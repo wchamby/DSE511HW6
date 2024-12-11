@@ -1,0 +1,161 @@
+Season,Tm,Playoffs
+2019-2020,San Francisco 49ers,TRUE
+2019-2020,Baltimore Ravens,TRUE
+2019-2020,Kansas City Chiefs,TRUE
+2019-2020,Dallas Cowboys,FALSE
+2019-2020,New Orleans Saints,TRUE
+2019-2020,Tampa Bay Buccaneers,FALSE
+2019-2020,New England Patriots,TRUE
+2019-2020,Los Angeles Rams,FALSE
+2019-2020,Minnesota Vikings,TRUE
+2019-2020,Seattle Seahawks,TRUE
+2019-2020,Atlanta Falcons,FALSE
+2019-2020,Houston Texans,TRUE
+2019-2020,Arizona Cardinals,FALSE
+2019-2020,Indianapolis Colts,FALSE
+2019-2020,Tennessee Titans,TRUE
+2019-2020,Los Angeles Chargers,FALSE
+2019-2020,Detroit Lions,FALSE
+2019-2020,Carolina Panthers,FALSE
+2019-2020,Green Bay Packers,TRUE
+2019-2020,Cleveland Browns,FALSE
+2019-2020,Philadelphia Eagles,TRUE
+2019-2020,Las Vegas Raiders,FALSE
+2019-2020,Buffalo Bills,TRUE
+2019-2020,Miami Dolphins,FALSE
+2019-2020,Denver Broncos,FALSE
+2019-2020,Pittsburgh Steelers,FALSE
+2019-2020,Chicago Bears,FALSE
+2019-2020,New York Giants,FALSE
+2019-2020,Cincinnati Bengals,FALSE
+2019-2020,New York Jets,FALSE
+2019-2020,Jacksonville Jaguars,FALSE
+2019-2020,Washington Commanders,FALSE
+2020-2021,Buffalo Bills,TRUE
+2020-2021,Tampa Bay Buccaneers,TRUE
+2020-2021,New Orleans Saints,TRUE
+2020-2021,Las Vegas Raiders,FALSE
+2020-2021,Baltimore Ravens,TRUE
+2020-2021,Indianapolis Colts,TRUE
+2020-2021,Tennessee Titans,TRUE
+2020-2021,Kansas City Chiefs,TRUE
+2020-2021,Green Bay Packers,TRUE
+2020-2021,Atlanta Falcons,FALSE
+2020-2021,Dallas Cowboys,FALSE
+2020-2021,Seattle Seahawks,TRUE
+2020-2021,Arizona Cardinals,FALSE
+2020-2021,Miami Dolphins,FALSE
+2020-2021,Cleveland Browns,TRUE
+2020-2021,Los Angeles Chargers,FALSE
+2020-2021,Carolina Panthers,FALSE
+2020-2021,Los Angeles Rams,TRUE
+2020-2021,Houston Texans,FALSE
+2020-2021,Chicago Bears,TRUE
+2020-2021,Detroit Lions,FALSE
+2020-2021,Pittsburgh Steelers,TRUE
+2020-2021,Cincinnati Bengals,FALSE
+2020-2021,San Francisco 49ers,FALSE
+2020-2021,Washington Commanders,TRUE
+2020-2021,Minnesota Vikings,FALSE
+2020-2021,Denver Broncos,FALSE
+2020-2021,New England Patriots,FALSE
+2020-2021,New York Giants,FALSE
+2020-2021,Jacksonville Jaguars,FALSE
+2020-2021,New York Jets,FALSE
+2020-2021,Philadelphia Eagles,FALSE
+2021-2022,Tampa Bay Buccaneers,TRUE
+2021-2022,Dallas Cowboys,TRUE
+2021-2022,Arizona Cardinals,TRUE
+2021-2022,New England Patriots,TRUE
+2021-2022,Green Bay Packers,TRUE
+2021-2022,Kansas City Chiefs,TRUE
+2021-2022,Buffalo Bills,TRUE
+2021-2022,Cincinnati Bengals,TRUE
+2021-2022,Los Angeles Rams,TRUE
+2021-2022,Indianapolis Colts,FALSE
+2021-2022,Tennessee Titans,TRUE
+2021-2022,Minnesota Vikings,FALSE
+2021-2022,San Francisco 49ers,TRUE
+2021-2022,Philadelphia Eagles,TRUE
+2021-2022,Las Vegas Raiders,TRUE
+2021-2022,Los Angeles Chargers,FALSE
+2021-2022,Seattle Seahawks,FALSE
+2021-2022,Baltimore Ravens,FALSE
+2021-2022,Pittsburgh Steelers,TRUE
+2021-2022,New Orleans Saints,FALSE
+2021-2022,Miami Dolphins,FALSE
+2021-2022,Denver Broncos,FALSE
+2021-2022,Washington Commanders,FALSE
+2021-2022,Cleveland Browns,FALSE
+2021-2022,Atlanta Falcons,FALSE
+2021-2022,Detroit Lions,FALSE
+2021-2022,Chicago Bears,FALSE
+2021-2022,Carolina Panthers,FALSE
+2021-2022,Houston Texans,FALSE
+2021-2022,New York Jets,FALSE
+2021-2022,New York Giants,FALSE
+2021-2022,Jacksonville Jaguars,FALSE
+2022-2023,Kansas City Chiefs,TRUE
+2022-2023,San Francisco 49ers,TRUE
+2022-2023,Dallas Cowboys,TRUE
+2022-2023,Buffalo Bills,TRUE
+2022-2023,Philadelphia Eagles,TRUE
+2022-2023,Minnesota Vikings,TRUE
+2022-2023,Seattle Seahawks,TRUE
+2022-2023,Detroit Lions,FALSE
+2022-2023,Miami Dolphins,TRUE
+2022-2023,Baltimore Ravens,TRUE
+2022-2023,Las Vegas Raiders,FALSE
+2022-2023,Cincinnati Bengals,TRUE
+2022-2023,Los Angeles Chargers,TRUE
+2022-2023,Atlanta Falcons,FALSE
+2022-2023,New England Patriots,FALSE
+2022-2023,Jacksonville Jaguars,TRUE
+2022-2023,Pittsburgh Steelers,FALSE
+2022-2023,Cleveland Browns,FALSE
+2022-2023,Green Bay Packers,FALSE
+2022-2023,Carolina Panthers,FALSE
+2022-2023,New York Giants,TRUE
+2022-2023,New York Jets,FALSE
+2022-2023,New Orleans Saints,FALSE
+2022-2023,Denver Broncos,FALSE
+2022-2023,Tampa Bay Buccaneers,TRUE
+2022-2023,Los Angeles Rams,FALSE
+2022-2023,Indianapolis Colts,FALSE
+2022-2023,Chicago Bears,FALSE
+2022-2023,Arizona Cardinals,FALSE
+2022-2023,Washington Commanders,FALSE
+2022-2023,Tennessee Titans,FALSE
+2022-2023,Houston Texans,FALSE
+2023-2024,Dallas Cowboys,TRUE
+2023-2024,Baltimore Ravens,TRUE
+2023-2024,Miami Dolphins,TRUE
+2023-2024,San Francisco 49ers,TRUE
+2023-2024,Los Angeles Rams,TRUE
+2023-2024,Buffalo Bills,TRUE
+2023-2024,Philadelphia Eagles,TRUE
+2023-2024,Indianapolis Colts,FALSE
+2023-2024,New Orleans Saints,FALSE
+2023-2024,Seattle Seahawks,FALSE
+2023-2024,Detroit Lions,TRUE
+2023-2024,Kansas City Chiefs,TRUE
+2023-2024,Green Bay Packers,TRUE
+2023-2024,Jacksonville Jaguars,FALSE
+2023-2024,Houston Texans,TRUE
+2023-2024,Cincinnati Bengals,FALSE
+2023-2024,Chicago Bears,FALSE
+2023-2024,Cleveland Browns,TRUE
+2023-2024,Los Angeles Chargers,FALSE
+2023-2024,Minnesota Vikings,FALSE
+2023-2024,Atlanta Falcons,FALSE
+2023-2024,Denver Broncos,FALSE
+2023-2024,Tampa Bay Buccaneers,TRUE
+2023-2024,Las Vegas Raiders,FALSE
+2023-2024,Tennessee Titans,FALSE
+2023-2024,Pittsburgh Steelers,TRUE
+2023-2024,Washington Commanders,FALSE
+2023-2024,New York Jets,FALSE
+2023-2024,New York Giants,FALSE
+2023-2024,Arizona Cardinals,FALSE
+2023-2024,New England Patriots,FALSE
+2023-2024,Carolina Panthers,FALSE
